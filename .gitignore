@@ -1,0 +1,4 @@
+venv/
+
+# Model weights
+# assets/model/best.pt
